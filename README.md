@@ -1,0 +1,1 @@
+for the first gif: https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hnOGw0cnltZjYwNjQzZWV2bTA3OHR3NmUzOWhxZ2J1eW9lamN6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UCbT4DEP3VGbtCeTX8/giphy.webp
