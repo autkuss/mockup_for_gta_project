@@ -1,0 +1,332 @@
+html {
+    scroll-behavior: smooth;
+}
+.section {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    margin: 10px 0;
+}
+
+
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #f9f9f9;
+    color: #333;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+
+.hero  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 2rem;
+    background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hnOGw0cnltZjYwNjQzZWV2bTA3OHR3NmUzOWhxZ2J1eW9lamN6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UCbT4DEP3VGbtCeTX8/giphy.webp");
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    color: white;
+    height: 90vh;
+
+    
+}
+
+
+.hero h1 {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+    color: rgb(103, 91, 175);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero p{
+
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
+
+
+
+.hero1  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 2rem;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    color: white;
+    height: 90vh;
+    background-image: url("2.gif") ;
+}
+
+.hero1 h1  {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+    color: rgb(87, 9, 9);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.hero1 h2 {
+    font-size: 3rem;
+    color: rgb(214, 188, 132);
+}
+
+.hero1 p{
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+}
+
+
+
+.hero2  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 2rem;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    color: white;
+    height: 90vh;
+    background-image: url(goktenbakisson.gif)
+}
+
+
+.hero2 h1  {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+    color: rgb(9, 153, 158);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.hero2 h2 {
+    font-size: 3rem;
+    color: rgb(141, 221, 217);
+}
+
+.hero2 p{
+    font-size: x-large;
+    color: white
+
+}
+
+.hero3  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 2rem;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    color: white;
+    height: 90vh;
+    background-image: url("4.gif");
+}
+
+
+.hero3 h1  {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+    color: rgb(216, 155, 114);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.hero3 h2 {
+    font-size: 3rem;
+    color: rgb(233, 197, 150);
+}
+
+.hero3 p{
+    font-size: x-large;
+}
+
+
+
+.hero4  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 2rem;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    color: white;
+    height: 90vh;
+    background-image: url("araba.gif");
+}
+
+
+.hero4 h1  {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+    color: rgb(216, 155, 114);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.hero4 h2 {
+    font-size: 3rem;
+    color: rgb(233, 197, 150);
+}
+
+.hero4 p{
+    font-size: x-large;
+}
+
+
+.hero5  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 2rem;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    color: white;
+    height: 90vh;
+    background-image: url("klup.gif");
+}
+
+
+.hero5 h1  {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+    color: rgb(185, 113, 137);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.hero5 h2 {
+    font-size: 3rem;
+    color: rgb(255, 205, 232);
+}
+
+.hero5 p{
+    font-size: x-large;
+}
+
+
+.hero6  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 2rem;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    color: white;
+    height: 90vh;
+    background-image: url(platform.gif);
+}
+
+
+.hero6 h1  {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+    color: rgb(214, 206, 193);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.hero6 h2 {
+    font-size: 3rem;
+    color: rgb(202, 188, 169);
+}
+
+.hero6 p{
+    font-size: x-large;
+}
+
+.hero7  {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 2rem;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    color: white;
+    height: 90vh;
+    background-image: url("logoson.gif");
+}
+
+
+.hero7 h1  {
+    font-size: 5rem;
+    margin-bottom: 1rem;
+    color: rgb(17, 59, 17);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.hero7 h2 {
+    font-size: 3rem;
+    color: rgb(233, 197, 150);
+}
+
+.hero7 p{
+    font-size: x-large;
+}
+
+
+
+.btn {
+    padding: 0.8rem 1.5rem;
+    background: #ff4500;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+
+.btn:hover {
+    background: #000000;
+
+}
+
+
+.footer {
+    text-align: center;
+    padding: 1rem;
+    background: #333;
+    color: white;
+}
+
+
+
+.rockstar-icon {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    z-index: 1000;
+}
+.rockstar-icon img {
+    width: 100%;
+    height: auto;
+    cursor: pointer;}
